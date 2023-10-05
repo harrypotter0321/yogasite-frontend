@@ -1,0 +1,12 @@
+.achive-body{
+    width: 100vw;
+    background-image: url('../images/wallpaper/achivement-wall.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+.achive-body-student{
+    width: 100vw;
+    background-image: url('../images/wallpaper/kidsyoga.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
